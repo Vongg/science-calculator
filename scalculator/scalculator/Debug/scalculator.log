@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+c:\users\mateuszek\desktop\nowy folder\science calculator\scalculator\scalculator\źródło.cpp(81): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\mateuszek\desktop\nowy folder\science calculator\scalculator\scalculator\źródło.cpp(46): warning C4715: "Kalkulator::licz”: niewszystkie ścieżki kodu zwracają wartość
+  scalculator.vcxproj -> C:\Users\Mateuszek\Desktop\Nowy folder\science calculator\scalculator\Debug\scalculator.exe
